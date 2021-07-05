@@ -27,3 +27,7 @@ gstgst
 .idea/
 JavaCourse.iml
 out/
+
+  [credential]
+          helper = store  
+

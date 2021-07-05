@@ -1,8 +1,7 @@
-package week1;
+package homework.week1;
 
 import java.io.*;
 import java.lang.reflect.Method;
-import java.util.Base64;
 
 /**
  * @author ：zhang
