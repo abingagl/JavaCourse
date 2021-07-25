@@ -29,5 +29,9 @@ JavaCourse.iml
 out/
 
   [credential]
-          helper = store  
+          helper = store
+
+
+Spring/*
+demo/*
 

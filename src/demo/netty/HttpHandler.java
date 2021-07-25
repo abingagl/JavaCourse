@@ -1,4 +1,4 @@
-package week2.netty;
+package demo.netty;
 
 import io.netty.buffer.Unpooled;
 import io.netty.channel.ChannelFuture;
