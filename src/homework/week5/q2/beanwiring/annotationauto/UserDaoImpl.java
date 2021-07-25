@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
  * @date ：created in 2021/07/25
  */
 @Repository("userDao")
-public class UserDaoImpl implements com.demo.UserDao {
+public class UserDaoImpl implements UserDao {
     @Override
     public void save() {
         System.out.println("userdao..save..");
